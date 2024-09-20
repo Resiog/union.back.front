@@ -7,7 +7,8 @@ import sergio.medina.proyecto.septiembre.union.back.front.servicios.Servicios;
 import java.util.List;
 
 @RestController
-@RequestMapping("/listado") //Debe ingresarse a localhost:8080/listado
+@RequestMapping("/listado") //Debe ingresa
+// rse a localhost:8080/listado
 public class Controlador {
 
     @Autowired
