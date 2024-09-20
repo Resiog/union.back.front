@@ -24,4 +24,8 @@ Metodología en Backend:
 
 Metodología en Frontend:
 -
+1. Creación de UI Swing Designer en IntelliJ para generar la UI.  
+![Preview](https://github.com/Resiog/union.back.front/blob/master/Previsualizaci%C3%B3n.png)
 
+Unión Backend y Frontend:
+-
